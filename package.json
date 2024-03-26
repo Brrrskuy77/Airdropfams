@@ -1,0 +1,31 @@
+{
+  "name": "airdropfams",
+  "version": "1.0.0",
+  "description": "Only for Airdrop Family Glamorize",
+  "main": "index.js",
+  "scripts": {
+    "test": "Airdropfams"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/Airdropfams.git"
+  },
+  "keywords": [
+    "Airdropfams",
+    "for",
+    "Family"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/Airdropfams/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/Airdropfams#readme",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.38"
+  }
+}
